@@ -1,0 +1,41 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.inactiveRoute {
+    text-decoration: none;
+}
+
+.home_screen{
+    padding: 2rem;
+}
+
+.search_section{
+    margin-bottom: 3rem;
+}
+
+.cards_list{
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.singleCard{
+    width: 20vw;
+    margin: 2rem;
+}
+
+.details_main{
+    margin-top: 3rem;
+}
+
+.button_wrapper{
+    margin-top: 3rem;
+}
+
+.ff_main{
+    margin: 3rem 2rem;
+}
