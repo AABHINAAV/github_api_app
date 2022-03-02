@@ -1,4 +1,5 @@
 # GITHUB API APP 1 #
 
-**Language Used: ** 
-__Strong text__
+
+__Languages: __ HTML5, CSS3, JAVASCRIPT(ES6), REACT.JS, REDUX
+__DEPENDENCIES: __ GITHUB.API, 
