@@ -1,9 +1,9 @@
 # GITHUB API APP
 
 
-**OBJECTIVE:** User can use this app to search for a github id. It shows the various details of github id of the searched user.
-**Languages:** HTML5, CSS3, JAVASCRIPT(ES6), REACT.JS, REDUX
-**DEPENDENCIES:** GITHUB.API, REDUX, @REDUX/DEVTOOLS/EXTENSION, REACT-REDUX, REDUX-THUNK
+**OBJECTIVE:** User can use this app to search for a github id. It shows the various details of github id of the searched user.\
+**Languages:** HTML5, CSS3, JAVASCRIPT(ES6), REACT.JS, REDUX \
+**DEPENDENCIES:** GITHUB.API, REDUX, @REDUX/DEVTOOLS/EXTENSION, REACT-REDUX, REDUX-THUNK \
 **LINK FOR GITHUB API DOCS:** [GITHUB API DOCS](https://docs.github.com/en/rest/reference/apps)
 
 
